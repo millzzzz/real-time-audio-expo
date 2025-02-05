@@ -1,3 +1,8 @@
+02/04/2025 midnight
+Today, I had an idea of building low level applications/plugins mostly just curious about the idea of building in JUCE. Then it turned to downloading XCode, and yeah then I knew because my final goal is to create a spatial visualizer... well I’ve not maybe given up on the idea of playing with WebViews.. Yes, I think that I really want to focus on the idea building one ideal several ways.
+
+Cool tools to try: Biome, Bun, Elysia.js... well there are so many technologies to play with but in the end it’s still all trying to accomplish one thing. Yes, I want to develop platform-less comprehension. 
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
